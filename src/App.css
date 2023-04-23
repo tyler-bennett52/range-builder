@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* App.css */
+button {
+  margin: 4px;
+}
+
+button.active {
+  background-color: #282880;
+  color: white;
+}
+
+button.fold-active {
+  background-color: #282880;
+  color: white;
+}
+
+button.call-active {
+  background-color: #147d14;
+  color: white;
+}
+
+button.raise-active {
+  background-color: #b83838;
+  color: white;
+}
+
+

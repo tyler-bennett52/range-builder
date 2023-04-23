@@ -1,0 +1,26 @@
+/* PokerHandsTable.module.css */
+.table {
+  border-collapse: collapse;
+}
+
+.cell {
+  border: 1px solid white;
+  padding: 4px 8px;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.pocketPair {
+  background-color: black;
+  cursor: pointer;
+}
+
+.suited {
+  background-color: black;
+  cursor: pointer;
+}
+
+.offsuit {
+  background-color: black;
+  cursor: pointer;
+}
